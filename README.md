@@ -68,126 +68,97 @@
         <img width="30%" align="right" src="assets/skull.gif" alt="">
         <a href="https://www.cplusplus.com/">
             <img src="https://img.shields.io/badge/C++-36454F?logo=cplusplus&logoColor=00599C&style=for-the-badge"
-                alt="cplusplus logo" title="cplusplus" height="30" />
-        </a>
+                alt="cplusplus logo" title="cplusplus" height="30" /></a>
         <a href="https://www.cprogramming.com/">
             <img src="https://img.shields.io/badge/C-36454F?logo=c&logoColor=A8B9CC&style=for-the-badge" alt="c logo"
-                title="c" height="30" />
-        </a>
+                title="c" height="30" /></a>
         <a href="https://docs.oracle.com/en/java/">
             <img src="https://img.shields.io/badge/Java-36454F?logo=java&logoColor=A8B9CC&style=for-the-badge"
-                alt="java logo" title="java" height="30" />
-        </a>
+                alt="java logo" title="java" height="30" /></a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
             <img src="https://img.shields.io/badge/Javascript-36454F?logo=javascript&logoColor=F7DF1E&style=for-the-badge"
-                alt="javascript logo" title="javascript" height="30" />
-        </a>
+                alt="javascript logo" title="javascript" height="30" /></a>
         <a href="https://docs.python.org/3/">
             <img src="https://img.shields.io/badge/Python-36454F?logo=Python&logoColor=3776AB&style=for-the-badge"
-                alt="Python logo" title="Python" height="30" />
-        </a>
+                alt="Python logo" title="Python" height="30" /></a>
         <a href="https://dart.dev/guides">
             <img src="https://img.shields.io/badge/Dart-36454F?logo=dart&logoColor=0175C2&style=for-the-badge"
-                alt="dart logo" title="dart" height="30" />
-        </a>
+                alt="dart logo" title="dart" height="30" /></a>
         <h3>Frontend development</h3>
         <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5">
             <img src="https://img.shields.io/badge/HTML5-36454F?logo=html5&logoColor=E34F26&style=for-the-badge"
-                alt="html5 logo" title="HTML5" height="30" />
-        </a>
+                alt="html5 logo" title="HTML5" height="30" /></a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
             <img src="https://img.shields.io/badge/CSS3-36454F?logo=css3&logoColor=1572B6&style=for-the-badge"
-                alt="css3 logo" title="CSS3" height="30" />
-        </a>
+                alt="css3 logo" title="CSS3" height="30" /></a>
         <a href="https://reactjs.org/">
             <img src="https://img.shields.io/badge/React-36454F?logo=react&logoColor=61DAFB&style=for-the-badge"
-                alt="react logo" title="React" height="30" />
-        </a>
+                alt="react logo" title="React" height="30" /></a>
         <a href="https://tailwindcss.com/">
             <img src="https://img.shields.io/badge/TailwindCSS-36454F?logo=tailwindcss&logoColor=06B6D4&style=for-the-badge"
-                alt="Tailwindcss logo" title="Tailwindcss" height="30" />
-        </a>
+                alt="Tailwindcss logo" title="Tailwindcss" height="30" /></a>
         <a href="https://sass-lang.com/">
             <img src="https://img.shields.io/badge/Sass-36454F?logo=sass&logoColor=CC6699&style=for-the-badge"
-                alt="Sass logo" title="Sass" height="30" />
-        </a>
+                alt="Sass logo" title="Sass" height="30" /></a>
         <a href="https://getbootstrap.com/">
             <img src="https://img.shields.io/badge/Bootstrap-36454F?logo=bootstrap&logoColor=7952B3&style=for-the-badge"
-                alt="Bootstrap logo" title="Bootstrap" height="30" />
-        </a>
+                alt="Bootstrap logo" title="Bootstrap" height="30" /></a>
         <h3>Backend development</h3>
         <a href="https://nodejs.org/en/docs/">
             <img src="https://img.shields.io/badge/NodeJS-36454F?logo=nodedotjs&logoColor=339933&style=for-the-badge"
-                alt="NodeJS logo" title="NodeJS" height="30" />
-        </a>
+                alt="NodeJS logo" title="NodeJS" height="30" /></a>
         <a href="https://expressjs.com/">
             <img src="https://img.shields.io/badge/ExpressJS-36454F?logo=express&logoColor=000000&style=for-the-badge"
-                alt="ExpressJS logo" title="ExpressJS" height="30" />
-        </a>
+                alt="ExpressJS logo" title="ExpressJS" height="30" /></a>
         <a href="https://graphql.org/">
             <img src="https://img.shields.io/badge/GraphQL-36454F?logo=graphql&logoColor=E10098&style=for-the-badge"
-                alt="GraphQL logo" title="GraphQL" height="30" />
-        </a>
+                alt="GraphQL logo" title="GraphQL" height="30" /></a>
         <h3>Mobile App development</h3>
         <a href="https://developer.android.com/docs">
             <img src="https://img.shields.io/badge/Android-36454F?logo=android&logoColor=34A853&style=for-the-badge"
-                alt="Android logo" title="Android" height="30" />
-        </a>
+                alt="Android logo" title="Android" height="30" /></a>
         <a href="https://flutter.dev/docs">
             <img src="https://img.shields.io/badge/Flutter-36454F?logo=flutter&logoColor=02569B&style=for-the-badge"
-                alt="Flutter logo" title="Flutter" height="30" />
-        </a>
+                alt="Flutter logo" title="Flutter" height="30" /></a>
         <h3>Database</h3>
         <a href="https://dev.mysql.com/doc/">
             <img src="https://img.shields.io/badge/MySQL-36454F?logo=mysql&logoColor=4479A1&style=for-the-badge"
-                alt="MySQL logo" title="MySQL" height="30" />
-        </a>
+                alt="MySQL logo" title="MySQL" height="30" /></a>
         <a href="https://docs.mongodb.com/">
             <img src="https://img.shields.io/badge/MongoDB-36454F?logo=mongodb&logoColor=47A248&style=for-the-badge"
-                alt="MongoDB logo" title="MongoDB" height="30" />
-        </a>
+                alt="MongoDB logo" title="MongoDB" height="30" /></a>
         <a href="https://firebase.google.com/docs">
             <img src="https://img.shields.io/badge/Firebase-36454F?logo=firebase&logoColor=FFCA28&style=for-the-badge"
-                alt="Firebase logo" title="Firebase" height="30" />
-        </a>
+                alt="Firebase logo" title="Firebase" height="30" /></a>
         <h3>Softwares</h3>
         <a href="https://code.visualstudio.com/docs">
             <img src="https://img.shields.io/badge/VS_Code-36454F?logo=visualstudiocode&logoColor=007ACC&style=for-the-badge"
-                alt="Visual studio code logo" title="Visual studio code" height="30" />
-        </a>
+                alt="Visual studio code logo" title="Visual studio code" height="30" /></a>
         <a href="https://developer.android.com/studio/intro">
             <img src="https://img.shields.io/badge/Android_Studio-36454F?logo=androidstudio&logoColor=3DDC84&style=for-the-badge"
-                alt="Android studio logo" title="Android studio" height="30" />
-        </a>
+                alt="Android studio logo" title="Android studio" height="30" /></a>
         <a href="https://helpx.adobe.com/illustrator/user-guide.html">
             <img src="https://img.shields.io/badge/Illustrator-36454F?logo=adobeillustrator&logoColor=FF9A00&style=for-the-badge"
-                alt="Illustrator logo" title="Illustrator" height="30" />
-        </a>
+                alt="Illustrator logo" title="Illustrator" height="30" /></a>
         <a href="https://helpx.adobe.com/photoshop/user-guide.html">
             <img src="https://img.shields.io/badge/Photoshop-36454F?logo=adobephotoshop&logoColor=31A8FF&style=for-the-badge"
-                alt="Photoshop logo" title="Photoshop" height="30" />
-        </a>
+                alt="Photoshop logo" title="Photoshop" height="30" /></a>
         <a href="https://help.figma.com/hc/en-us">
             <img src="https://img.shields.io/badge/Figma-36454F?logo=figma&logoColor=F24E1E&style=for-the-badge"
-                alt="Figma logo" title="Figma" height="30" />
-        </a>
+                alt="Figma logo" title="Figma" height="30" /></a>
         <a href="https://docs.blender.org/manual/en/latest/">
             <img src="https://img.shields.io/badge/Blender-36454F?logo=blender&logoColor=E87D0D&style=for-the-badge"
-                alt="Blender logo" title="Blender" height="30" />
-        </a>
+                alt="Blender logo" title="Blender" height="30" /></a>
         <a href="https://learning.postman.com/docs/getting-started/introduction/">
             <img src="https://img.shields.io/badge/Postman-36454F?logo=postman&logoColor=FF6C37&style=for-the-badge"
-                alt="Postman logo" title="Postman" height="30" />
-        </a>
+                alt="Postman logo" title="Postman" height="30" /></a>
         <h3>Others</h3>
         <a href="https://www.linux.org/pages/download/">
             <img src="https://img.shields.io/badge/Linux-36454F?logo=linux&logoColor=FCC624&style=for-the-badge"
-                alt="Linux logo" title="Linux" height="30" />
-        </a>
+                alt="Linux logo" title="Linux" height="30" /></a>
         <a href="https://git-scm.com/doc">
             <img src="https://img.shields.io/badge/Git-36454F?logo=git&logoColor=F05032&style=for-the-badge"
-                alt="Git logo" title="Git" height="30" />
-        </a>
+                alt="Git logo" title="Git" height="30" /></a>
         <h2>~ <img height="25" src="assets/trophy.gif" alt=""> Achievements <img height="25" src="assets/trophy.gif"
                 alt=""> ~</h2>
         <p align="left"> <a 
