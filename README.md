@@ -84,6 +84,9 @@
         <a href="https://dart.dev/guides">
             <img src="https://img.shields.io/badge/Dart-36454F?logo=dart&logoColor=0175C2&style=for-the-badge"
                 alt="dart logo" title="dart" height="30" /></a>
+        <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+            <img src="https://img.shields.io/badge/C%23-36454F?logo=csharp&logoColor=512BD4&style=for-the-badge"
+                alt="C# logo" title="C#" height="30" /></a>        
         <h3>Frontend development</h3>
         <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5">
             <img src="https://img.shields.io/badge/HTML5-36454F?logo=html5&logoColor=E34F26&style=for-the-badge"
@@ -113,6 +116,12 @@
         <a href="https://graphql.org/">
             <img src="https://img.shields.io/badge/GraphQL-36454F?logo=graphql&logoColor=E10098&style=for-the-badge"
                 alt="GraphQL logo" title="GraphQL" height="30" /></a>
+        <a href="https://dotnet.microsoft.com/apps/aspnet">
+            <img src="https://img.shields.io/badge/.NET-36454F?logo=dotnet&logoColor=512BD4&style=for-the-badge"
+                alt=".NET logo" title=".NET" height="30" /></a>
+        <a href="https://flask.palletsprojects.com/">
+            <img src="https://img.shields.io/badge/Flask-36454F?logo=flask&logoColor=000000&style=for-the-badge"
+                alt="Flask logo" title="Flask" height="30" /></a>        
         <h3>Mobile App development</h3>
         <a href="https://developer.android.com/docs">
             <img src="https://img.shields.io/badge/Android-36454F?logo=android&logoColor=34A853&style=for-the-badge"
@@ -134,6 +143,9 @@
         <a href="https://code.visualstudio.com/docs">
             <img src="https://img.shields.io/badge/VS_Code-36454F?logo=visualstudiocode&logoColor=007ACC&style=for-the-badge"
                 alt="Visual studio code logo" title="Visual studio code" height="30" /></a>
+        <a href="https://visualstudio.microsoft.com/">
+            <img src="https://img.shields.io/badge/Visual_Studio-36454F?logo=visualstudio&logoColor=5C2D91&style=for-the-badge"
+                alt="Visual Studio logo" title="Visual Studio" height="30" /></a>        
         <a href="https://developer.android.com/studio/intro">
             <img src="https://img.shields.io/badge/Android_Studio-36454F?logo=androidstudio&logoColor=3DDC84&style=for-the-badge"
                 alt="Android studio logo" title="Android studio" height="30" /></a>
@@ -173,6 +185,10 @@
                 src="assets/roomba.gif" alt=""> ~
         </h2>
         <p>
+            <a style="text-decoration: none" href="https://github.com/Tech-Savvy-Abhishek/Chaotic_Crypto"
+                target="_blank">
+                <img align="center"
+                    src="https://github-readme-stats.vercel.app/api/pin/?username=Tech-Savvy-Abhishek&repo=Chaotic_Crypto&bg_color=00000000&title_color=FF2A6D&border_color=FF2A6D&text_color=05d9e8" /></a>
             <a style="text-decoration: none" href="https://github.com/Tech-Savvy-Abhishek/Sorting_Mastery"
                 target="_blank">
                 <img align="center"
