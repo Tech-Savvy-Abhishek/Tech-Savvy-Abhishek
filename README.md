@@ -8,18 +8,18 @@
         </p>
         <p align="center">
             <a  href="mailto:abhishekgs999@outlook.com">
-                <img src="https://img.shields.io/badge/gmail-EA4335?logo=gmail&logoColor=FFFFFF&style=for-the-badge"
-                    alt="gmail logo" title="gmail" height="33" /></a>
+                <img src="https://img.shields.io/badge/mail-EA4335?logo=gmail&logoColor=FFFFFF&style=for-the-badge"
+                    alt="gmail logo" title="mail" height="33" /></a>
             <a  href="https://www.linkedin.com/in/abhishek-g-s-b60aa5245/">
                 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=FFFFFF&style=for-the-badge"
                     alt="LinkedIn logo" title="LinkedIn" height="33" /></a>
             <a  href="https://leetcode.com/ABHISHEK_GS/">
-                <img src="https://img.shields.io/badge/Leetcode-FFA116?logo=leetcode&logoColor=353935&style=for-the-badge"
+                <img src="https://img.shields.io/badge/Leetcode-FFA116?logo=leetcode&logoColor=FFFFFF&style=for-the-badge"
                     alt="leetcode logo" title="leetcode" height="33" /></a>
         </p>
         <p align="center">
             <a  href="documets/resume.pdf">
-                <img src="https://img.shields.io/badge/Download_Resume-CF9FFF?logo=readdotcv&logoColor=353935&style=for-the-badge"
+                <img src="https://img.shields.io/badge/Download_Resume-36454F?logo=readdotcv&logoColor=FFFFFF&style=for-the-badge"
                     alt="resume logo" title="resume" height="33" /></a>
         </p>
         <h1>Hello there! <img
@@ -97,15 +97,24 @@
         <a href="https://reactjs.org/">
             <img src="https://img.shields.io/badge/React-36454F?logo=react&logoColor=61DAFB&style=for-the-badge"
                 alt="react logo" title="React" height="30" /></a>
+        <a href="https://nextjs.org/docs">
+            <img src="https://img.shields.io/badge/NextJS-36454F?logo=nextdotjs&logoColor=000000&style=for-the-badge"
+                alt="NextJS logo" title="NextJS" height="30" /></a>        
         <a href="https://tailwindcss.com/">
             <img src="https://img.shields.io/badge/TailwindCSS-36454F?logo=tailwindcss&logoColor=06B6D4&style=for-the-badge"
                 alt="Tailwindcss logo" title="Tailwindcss" height="30" /></a>
         <a href="https://sass-lang.com/">
             <img src="https://img.shields.io/badge/Sass-36454F?logo=sass&logoColor=CC6699&style=for-the-badge"
                 alt="Sass logo" title="Sass" height="30" /></a>
+        <a href="https://mui.com/">
+            <img src="https://img.shields.io/badge/Material_UI-36454F?logo=mui&logoColor=007FFF&style=for-the-badge"
+                alt="Material UI logo" title="Material UI" height="30" /></a>     
         <a href="https://getbootstrap.com/">
             <img src="https://img.shields.io/badge/Bootstrap-36454F?logo=bootstrap&logoColor=7952B3&style=for-the-badge"
                 alt="Bootstrap logo" title="Bootstrap" height="30" /></a>
+        <a href="https://testing-library.com/docs/react-testing-library/intro/">
+            <img src="https://img.shields.io/badge/React_Testing_Library-36454F?logo=testinglibrary&logoColor=E33332&style=for-the-badge"
+                alt="React Testing Library logo" title="React Testing Library" height="30" /></a>        
         <h3>Backend development</h3>
         <a href="https://nodejs.org/en/docs/">
             <img src="https://img.shields.io/badge/NodeJS-36454F?logo=nodedotjs&logoColor=339933&style=for-the-badge"
@@ -121,7 +130,10 @@
                 alt=".NET logo" title=".NET" height="30" /></a>
         <a href="https://flask.palletsprojects.com/">
             <img src="https://img.shields.io/badge/Flask-36454F?logo=flask&logoColor=000000&style=for-the-badge"
-                alt="Flask logo" title="Flask" height="30" /></a>        
+                alt="Flask logo" title="Flask" height="30" /></a>
+        <a href="https://jestjs.io/docs/getting-started">
+            <img src="https://img.shields.io/badge/Jest-36454F?logo=jest&logoColor=C21325&style=for-the-badge"
+                alt="Jest logo" title="Jest" height="30" /></a>                
         <h3>Mobile App development</h3>
         <a href="https://developer.android.com/docs">
             <img src="https://img.shields.io/badge/Android-36454F?logo=android&logoColor=34A853&style=for-the-badge"
@@ -171,6 +183,9 @@
         <a href="https://git-scm.com/doc">
             <img src="https://img.shields.io/badge/Git-36454F?logo=git&logoColor=F05032&style=for-the-badge"
                 alt="Git logo" title="Git" height="30" /></a>
+        <a href="https://docs.docker.com/">
+            <img src="https://img.shields.io/badge/Docker-36454F?logo=docker&logoColor=2496ED&style=for-the-badge"
+                alt="Docker logo" title="Docker" height="30" /></a>        
         <h2>~ <img height="25" src="assets/trophy.gif" alt=""> Achievements <img height="25" src="assets/trophy.gif"
                 alt=""> ~</h2>
         <p align="left"> <a 
